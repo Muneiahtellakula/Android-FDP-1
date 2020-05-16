@@ -63,7 +63,7 @@ Microphone and Speakers facility for Offline training program.
 
 
 ### Course Objectives :
-- To enable the faculty of Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students.
+- To enable the faculty of all Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students.
 ### Entry Requirements :
 - Faculty attending this FDP should have a good knowledge in JAVA.
 
